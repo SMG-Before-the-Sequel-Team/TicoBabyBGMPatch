@@ -1,0 +1,12 @@
+{
+  "Name": "TicoBabyBGMPatch",
+  "Author": "gaimerI17",
+  "Description": "Disables TicoBaby muting the Music when coming into range.",
+  "InstallDependencies": [
+    "Syati_Init"
+  ],
+  "SupportedGames": [
+    "SB4"
+  ],
+  "ModuleData": []
+}
